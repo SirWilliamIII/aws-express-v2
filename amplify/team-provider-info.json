@@ -10,6 +10,11 @@
       "StackName": "amplify-vuetodo-dev-10714",
       "StackId": "arn:aws:cloudformation:us-east-1:642251220331:stack/amplify-vuetodo-dev-10714/8212b620-129a-11eb-ab4a-122ae4ce5d77",
       "AmplifyAppId": "dh47cq4yvcmqn"
+    },
+    "categories": {
+      "auth": {
+        "vuetodo2ec6dc25": {}
+      }
     }
   }
 }
